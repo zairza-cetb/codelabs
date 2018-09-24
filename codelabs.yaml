@@ -1,0 +1,6 @@
+codelabs:
+  - 01_sample:
+    title: "Sample Codelab"
+    description: 'A sample codelab to demonstrate the capabilities'
+    hidden: true
+    date: '2018-09-24 12:25:32+05:30'
